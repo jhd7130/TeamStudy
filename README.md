@@ -27,7 +27,7 @@
 
 [ Next Week - Code Review ]
 
-[ Individual review ]
+[ Individual review ]  
 구성원1 :   
 구성원2 :  
 구성원3 :  
