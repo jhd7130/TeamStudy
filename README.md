@@ -28,7 +28,7 @@
 [ Next Week - Code Review ]
 
 [ Individual review ]
-구성원1 : 
-구성원2 :
-구성원3 :
+구성원1 :   
+구성원2 :  
+구성원3 :  
 
