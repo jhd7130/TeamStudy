@@ -1,7 +1,8 @@
 # TeamStudy
 오히려좋아 스터디 팀 공유 리파지토리  
 
-[스프링 입문을 위한 자바 객체 지향의 원리와 이해](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998139940&orderClick=LAG&Kc=).
+[#1. 스프링 입문을 위한 자바 객체 지향의 원리와 이해](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998139940&orderClick=LAG&Kc=).  
+[#2. 자바의신](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788997924325&orderClick=LEa&Kc=), [자바의정석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994492032&orderClick=LAG&Kc=)
 
 ## Template
 매주 스터디의 내용을 정리하는 탬플릿 입니다. 한 사람씩 돌아가며 작성하는 것을 원칙으로 합니다. 
